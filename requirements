@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+pillow
+numpy
+natsort
+torch
+torchvision
+torchaudio
+tqdm
+concurrent.futures
