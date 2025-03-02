@@ -148,18 +148,20 @@ Pull requests and contributions are welcome!
 ---
 
 ## 📌 Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation Using Mobile Platforms
-🔥 Authors
+🔥**Authors**
 Lyes Saad Saoud, Loïc Lesobre, Enrico Sorato, Yves Hingrat, Lakmal Seneviratne, Irfan Hussain*
----
+
 ## 🏛 Affiliations
 1 Khalifa University Center for Autonomous Robotic Systems (KUCARS), Khalifa University, Abu Dhabi, United Arab Emirates.
 2 RENECO International Wildlife Consultants LLC, Abu Dhabi, United Arab Emirates.
----
-## 📖 Please Cite
+
+
+## 📖 Citation
+
 If you find this work useful, please cite our research using the following BibTeX entry:
 
----
-@article{SaadSaoud2025HoubaraDetection,
+```bibtex
+@article{SaadSaoud2025HoubaraDetection, 
   author    = {Lyes Saad Saoud and Loïc Lesobre and Enrico Sorato and Yves Hingrat and Lakmal Seneviratne and Irfan Hussain},
   title     = {Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation Using Mobile Platforms},
   journal   = {Preprint},
@@ -167,3 +169,5 @@ If you find this work useful, please cite our research using the following BibTe
   publisher = {arXiv},
   url       = {https://arxiv.org/abs/XXXX.XXXXX}
 }
+
+
