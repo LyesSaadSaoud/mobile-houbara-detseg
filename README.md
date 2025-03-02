@@ -91,7 +91,7 @@ python scripts/compress_videos.py --input output/video.mp4 --output output/compr
 | Input | SAM | YOLO-SAM |
 |--------|------------|-------------|
 | ![Input](examples/1200-143-_jpeg.rf.aa5b7463a07b7f5688718cd4aa599109.jpg) | ![YOLO](examples/1200-143-_jpeg.rf.aa5b7463a07b7f5688718cd4aa599109_de.jpg) | ![SAM](examples/1200-143-_jpeg.rf.aa5b7463a07b7f5688718cd4aa599109_overlay.jpg) |
-| ![Input](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e.jpg) | ![YOLO](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e.jpg) | ![SAM](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e_overlay.jpg) |
+| ![Input](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e.jpg) | ![YOLO](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e_de.jpg) | ![SAM](examples/1200-137-_jpeg.rf.85c938539a8f32b4f508e14b9be15f1e_overlay.jpg) |
 | ![Input](examples/1200-118-_jpeg.rf.e8cd7b21f51742a41390acf8b4f80270.jpg) | ![YOLO](examples/1200-118-_jpeg.rf.e8cd7b21f51742a41390acf8b4f80270_de.jpg) | ![SAM](examples/1200-118-_jpeg.rf.e8cd7b21f51742a41390acf8b4f80270_overlay.jpg) |
 | ![Input](examples/1200-100-_jpeg.rf.f90b8d2bd3ffb6a6d607d13fe62fcb8d.jpg) | ![YOLO](examples/1200-100-_jpeg.rf.f90b8d2bd3ffb6a6d607d13fe62fcb8d_de.jpg) | ![SAM](examples/1200-100-_jpeg.rf.f90b8d2bd3ffb6a6d607d13fe62fcb8d_overlay.jpg) |
 
