@@ -24,7 +24,7 @@ Houbara-Detection/
 │── input_videos/                # Input videos (Optional)
 │── output/                      # YOLO + SAM results
 │
-│── scripts/                     # Python scripts
+│── codes/                       # Python scripts
 │   ├── detect.py                # Main YOLO + SAM script
 │   ├── preprocess.py            # Pre-processing functions
 │   ├── compress_videos.py       # Video compression
