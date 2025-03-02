@@ -88,7 +88,7 @@ python scripts/compress_videos.py --input output/video.mp4 --output output/compr
 
 ## 🎬 Demo Results
 ### **YOLO Detection + SAM Segmentation**
-| Input | YOLO Output | Segmentation |
+| Input | SAM | YOLO-SAM |
 |--------|------------|-------------|
 | ![Input](examples/1200-143-jpeg.rf.aa5b7463a07b7f5688718cd4aa599109.jpg) | ![YOLO](examples/1200-143-jpeg.rf.aa5b7463a07b7f5688718cd4aa599109_de.jpg) | ![SAM](examples/1200-143-jpeg.rf.aa5b7463a07b7f5688718cd4aa599109_overlay.jpg) |
 | ![Input](examples/1200-137-jpeg.rf.85c938539a8f32b4f508e14b9be15f1e.jpg) | ![YOLO](examples/1200-137-jpeg.rf.85c938539a8f32b4f508e14b9be15f1e_de.jpg) | ![SAM](examples/1200-137-jpeg.rf.85c938539a8f32b4f508e14b9be15f1e_overlay.jpg) |
