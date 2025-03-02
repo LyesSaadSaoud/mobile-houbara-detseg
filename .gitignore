@@ -1,0 +1,10 @@
+# Ignore large model files
+models/best_yolo10_40k.pt
+models/mobile_sam.pt
+
+# Ignore output data
+output/
+input_videos/
+
+# Ignore cache files
+__pycache__/
