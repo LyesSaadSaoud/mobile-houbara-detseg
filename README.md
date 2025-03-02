@@ -55,8 +55,8 @@ pip install -r requirements.txt
 Since **GitHub does not support large files**, download models manually:
 
 #### 📥 **Manual Download**
-- **[Download YOLOv10 Model](https://drive.google.com/your_yolo_model_link)**  
-- **[Download MobileSAM Model](https://drive.google.com/your_sam_model_link)**  
+- **[Download YOLOv10 Model]([https://drive.google.com/your_yolo_model_link](https://drive.google.com/file/d/1FYPtoh3wwqxAIctzq3ZbP6ddzAQz38IX/view?usp=sharing))**  
+- **[Download MobileSAM Model]([https://drive.google.com/your_sam_model_link](https://drive.google.com/file/d/1XrQ833nzhRd3kxPduLbemi3Xi4xNcY6n/view?usp=sharing))**  
 - Place them in the **`models/`** folder.
 
 #### 📥 **Auto-Download Using Python**
