@@ -162,7 +162,7 @@ If you find this work useful, please cite our research using the following BibTe
 
 ```bibtex
 @article{SaadSaoud2025HoubaraDetection, 
-  author    = {Lyes Saad Saoud and Loïc Lesobre and Enrico Sorato and Yves Hingrat and Lakmal Seneviratne and Irfan Hussain},
+  author    = {Lyes Saad Saoud and Loïc Lesobre and Enrico Sorato and Irfan Hussain},
   title     = {Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation Using Mobile Platforms},
   journal   = {Preprint},
   year      = {2025},
